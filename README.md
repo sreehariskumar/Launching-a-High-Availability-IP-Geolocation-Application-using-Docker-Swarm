@@ -1,3 +1,5 @@
+# Launching a High Availability IP Geolocation Application using Docker Swarm
+
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 By utilizing the benefits of containerization, I have built an IP geolocation solution that can easily be deployed and managed, even in large and complex environments. With a focus on high availability, our application offers an unparalleled level of reliability, scalability, and performance. Let’s explore the journey of developing this application, and how Docker Swarm has helped me achieve this goal.
