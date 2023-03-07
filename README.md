@@ -2,6 +2,9 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
+![swarm drawio](https://user-images.githubusercontent.com/68052722/223336304-25b54a2a-3bd6-44d6-b55a-0e1fad89853f.png)
+
+
 By utilizing the benefits of containerization, I have built an IP geolocation solution that can easily be deployed and managed, even in large and complex environments. With a focus on high availability, our application offers an unparalleled level of reliability, scalability, and performance. Let’s explore the journey of developing this application, and how Docker Swarm has helped me achieve this goal.
 
 ### Introduction to Docker Swarm
